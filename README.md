@@ -12,10 +12,12 @@ The project consists of three main components:
   - Implements features like learning rate decay, gradient clipping, and custom loss functions.
 3. [model_permute.py]
   - Graph Convolution Module (gcn_operation)
-  - Spatio-Temporal Graph Convolution Layers (STSGC)
+  - Spatio-Temporal Graph Convolution Layers (STSGCL)
+  - Spatio-Temporal Graph Convolution Modules (STSGCM)
+  - Self-Attention Mechanism based classifier (output_layer)
 
 
 ## Acknowledgements
 
-This project is inspired by [Original Repository Name](https://github.com/username/repository).  
+This project is inspired by [STSGCN_Pytorch](https://github.com/SmallNana/STSGCN_Pytorch).  
 The code has been adapted and modified to suit the specific requirements of this project.
